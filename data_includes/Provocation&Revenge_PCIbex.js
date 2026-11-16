@@ -358,8 +358,8 @@ newTrial("go",
 // Critical.csv remains unchanged. At runtime, each selected item contributes
 // either cond_group 1 (NP1 causality) or cond_group 8 (NP2 causality).
 // Both conditions use unambiguous masculine er with mixed-gender referents.
-// Each verb-bias stratum contributes 13 congruent and 3 incongruent items
-// (26 congruent and 6 incongruent overall: 81.25% / 18.75%).
+// Each verb-bias stratum contributes 13 incongruent and 3 congruent items
+// (26 incongruent and 6 congruent overall: 81.25% / 18.75%).
 // Assignment and order are reproducibly randomized from PROLIFIC_PID.
 
 // ---- deterministic hash (string -> uint32) ----
@@ -515,7 +515,7 @@ Template("dummy", () => {
   }
 
   // Randomized-block assignment, not a Latin square: within each verb-bias
-  // stratum, randomly assign 13 congruent and 3 incongruent items.
+  // stratum, randomly assign 13 incongruent and 3 congruent items.
   const assignedCondGroup = {};
   ["NP1", "NP2"].forEach(bias => {
     const biasItems = itemKeys.filter(
@@ -525,7 +525,7 @@ Template("dummy", () => {
     const congruentGroup = bias === "NP1" ? "1" : "8";
     const incongruentGroup = bias === "NP1" ? "8" : "1";
     biasItems.forEach((itemNumber, index) => {
-      assignedCondGroup[itemNumber] = index < 13 ? congruentGroup : incongruentGroup;
+      assignedCondGroup[itemNumber] = index < 13 ? incongruentGroup : congruentGroup;
     });
   });
 
@@ -757,8 +757,8 @@ Template("dummy", () => {
       .log("trial_type", "critical")
       .log("randomization_method", "seeded_unrestricted_full_pool_shuffle")
       .log("condition_assignment_method", "seeded_randomized_block_within_verb_bias")
-      .log("congruent_items_per_bias", 13)
-      .log("incongruent_items_per_bias", 3)
+      .log("congruent_items_per_bias", 3)
+      .log("incongruent_items_per_bias", 13)
       .log("randomization_seed", globalSeed)
       .log("random_target_index", targetIndex)
       .log("random_n_variants_for_item", nVariants)
