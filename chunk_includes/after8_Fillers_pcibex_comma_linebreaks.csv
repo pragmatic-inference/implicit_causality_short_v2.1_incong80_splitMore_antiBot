@@ -1,0 +1,134 @@
+﻿trial_type,cond_group,item,source_group,source_item,q_type,story,question,left,right,left_pronoun,right_pronoun,correct,correct_response,question_answers,new_sent,story_region_count,sentence_count,article_chunk_count,connector_chunk_count,correct_answer_text,incorrect_answer_text,original_answer_1,original_answer_2,original_correct_key,source_file,adjusted
+filler,1,F_1a,A,1a,S1,"Auf der_Einkaufsstraße herrschte eine_angespannte_Stimmung.
+Philipp hatte Lisa verklagt.
+Sie hatte sein_Geschäft mit roter Farbe verunstaltet,
+weil_seine_Klage ungerechtfertigt war.",Was waren diese Personen?,Geschäftsinhaber,Vermieter,,,F,F,Was waren diese Personen? (Geschäftsinhaber / Vermieter),"Auf der Einkaufsstraße herrschte eine angespannte Stimmung. Philipp hatte Lisa verklagt. Sie hatte sein Geschäft mit roter Farbe verunstaltet, weil seine Klage ungerechtfertigt war.",18,3,3,1,Geschäftsinhaber,Vermieter,Geschäftsinhaber,Vermieter,F,Critical.csv,No
+filler,1,F_2c,A,2c,S1,"Im_Englischunterricht gab es heute lautstarken Streit.
+Beatrix hatte Niklas zurechtgewiesen,
+woraufhin_er ihren_Unterricht mit dummen Fragen unterbrach,
+da_ihre_Ermahnungen ihn ärgerten.",Welches Fach unterrichtete Beatrix?,Englisch,Geschichte,,,F,F,Welches Fach unterrichtete Beatrix? (Englisch / Geschichte),"Im Englischunterricht gab es heute lautstarken Streit. Beatrix hatte Niklas zurechtgewiesen, woraufhin er ihren Unterricht mit dummen Fragen unterbrach, da ihre Ermahnungen ihn ärgerten.",19,2,2,2,Englisch,Geschichte,Geschichte,Englisch,J,Critical.csv,No
+filler,1,F_3b,A,3b,S1,"Der_Konzertsaal hallte wider von Jubel.
+Leon hatte Diana applaudiert.
+Sie sang daraufhin beeindruckende Melodien für das_Finale,
+da_sein_Jubel sie inspirierte.",Wo fand das Konzert statt?,Drinnen,Draußen,,,F,F,Wo fand das Konzert statt? (Drinnen / Draußen),"Der Konzertsaal hallte wider von Jubel. Leon hatte Diana applaudiert. Sie sang daraufhin beeindruckende Melodien für das Finale, da sein Jubel sie inspirierte.",19,3,2,1,Drinnen,Draußen,Drinnen,Draußen,F,Critical.csv,No
+filler,1,F_6a,A,6a,S1,"Es war kein_guter_Abend für die_Mitglieder des_Orchesters.
+Larissa hatte Arthur kritisiert.
+Er spielte an diesem_Abend während der_gesamten_Aufführung sehr schlecht,
+da_ihre_Kritik ihn aus der_Fassung gebracht hatte.",Was waren diese Personen?,Musiker,Schauspieler,,,F,F,Was waren diese Personen? (Musiker / Schauspieler),"Es war kein guter Abend für die Mitglieder des Orchesters. Larissa hatte Arthur kritisiert. Er spielte an diesem Abend während der gesamten Aufführung sehr schlecht, da ihre Kritik ihn aus der Fassung gebracht hatte.",24,3,6,1,Musiker,Schauspieler,Schauspieler,Musiker,J,Critical.csv,No
+filler,1,F_7c,A,7c,S1,"In der_neuen_Arbeitsgruppe begannen sich Freundschaften zu bilden.
+Mario hatte Edith gelobt,
+woraufhin_sie ihm als Dankeschön Kekse mit extra viel Schokolade gebacken hat,
+da_das_Lob sie erfreut hatte.",In welcher Beziehung standen Mario und Edith zueinander?,Kollegen,Nachbarn,,,F,F,In welcher Beziehung standen Mario und Edith zueinander? (Kollegen / Nachbarn),"In der neuen Arbeitsgruppe begannen sich Freundschaften zu bilden. Mario hatte Edith gelobt, woraufhin sie ihm als Dankeschön Kekse mit extra viel Schokolade gebacken hat, da das Lob sie erfreut hatte.",26,2,1,2,Kollegen,Nachbarn,Kollegen,Nachbarn,F,Critical.csv,No
+filler,1,F_9b,A,9b,S1,"Die_Streitschlichtung verlief nicht sehr reibungslos.
+Lorenz hatte Wanda korrigiert.
+Sie sprach daraufhin seinen_Namen mit zusätzlichen Silben falsch aus,
+da_seine_Korrektur sie ärgerte.",Wofür war das Treffen gedacht?,Streitschlichtung,Eventplanung,,,F,F,Wofür war das Treffen gedacht? (Streitschlichtung / Eventplanung),"Die Streitschlichtung verlief nicht sehr reibungslos. Lorenz hatte Wanda korrigiert. Sie sprach daraufhin seinen Namen mit zusätzlichen Silben falsch aus, da seine Korrektur sie ärgerte.",21,3,2,1,Streitschlichtung,Eventplanung,Eventplanung,Streitschlichtung,J,Critical.csv,No
+filler,1,F_10a,A,10a,S2,"In letzter Zeit herrschte im_Vertriebsteam einiges Chaos.
+Stella hatte Gerd degradiert.
+Er verpasste daraufhin in dieser_Woche ein_Treffen mit wichtigen Kunden,
+da_die_Degradierung ihn wütend gemacht hatte.",Wer wurde degradiert?,Gerd,Stella,,,F,F,Wer wurde degradiert? (Gerd / Stella),"In letzter Zeit herrschte im Vertriebsteam einiges Chaos. Stella hatte Gerd degradiert. Er verpasste daraufhin in dieser Woche ein Treffen mit wichtigen Kunden, da die Degradierung ihn wütend gemacht hatte.",25,3,3,1,Gerd,Stella,Stella,Gerd,F,Critical.csv,No
+filler,1,F_12c,A,12c,S2,"Im_Hause Murphy herrschte erneut Chaos.
+Elisabeth hatte Jonas bestraft,
+woraufhin_er als Reaktion eine_Vase in der_Küche zerbrach,
+da_ihre_Strafe ärgerlich war.",Wer hat eine Strafe erteilt?,Elisabeth,Jonas,,,F,F,Wer hat eine Strafe erteilt? (Elisabeth / Jonas),"Im Hause Murphy herrschte erneut Chaos. Elisabeth hatte Jonas bestraft, woraufhin er als Reaktion eine Vase in der Küche zerbrach, da ihre Strafe ärgerlich war.",19,2,3,2,Elisabeth,Jonas,Jonas,Elisabeth,J,Critical.csv,No
+filler,1,F_13b,A,13b,S2,"In den_Spionageermittlungen des_FBI gab es bedeutende neue Entwicklungen.
+Harald hatte Jolanda freigelassen.
+Sie nannte daraufhin ihren_Anklägern die_Namen ihrer_Mitverschwörer,
+da_die_Freiheit ihre_Einstellung verändert hatte.",Wer hat einen Gefangenen freigelassen?,Harald,Jolanda,,,F,F,Wer hat einen Gefangenen freigelassen? (Harald / Jolanda),"In den Spionageermittlungen des FBI gab es bedeutende neue Entwicklungen. Harald hatte Jolanda freigelassen. Sie nannte daraufhin ihren Anklägern die Namen ihrer Mitverschwörer, da die Freiheit ihre Einstellung verändert hatte.",22,3,6,1,Harald,Jolanda,Harald,Jolanda,F,Critical.csv,No
+filler,1,F_14a,A,14a,S3,"Die_Mitglieder der_königlichen_Familie ehrten die_besten_Künstler des_Landes.
+Viktoria hatte Boris gelobt.
+Er malte daraufhin sorgfältig ihr_Porträt für ihre_Galerie,
+da_ihr_Lob ihn erfreute.",Was hat Boris geschaffen?,Porträt,Oper,,,F,F,Was hat Boris geschaffen? (Porträt / Oper),"Die Mitglieder der königlichen Familie ehrten die besten Künstler des Landes. Viktoria hatte Boris gelobt. Er malte daraufhin sorgfältig ihr Porträt für ihre Galerie, da ihr Lob ihn erfreute.",19,3,6,1,Porträt,Oper,Oper,Porträt,J,Critical.csv,No
+filler,1,F_15c,A,15c,S3,"Die_Investmentfirma hatte in letzter Zeit kluge Entscheidungen in Bezug auf das_Personal getroffen.
+Lars hatte Silvia befördert,
+woraufhin_sie ihm als Reaktion durch Steuerschlupflöcher Millionen einsparte,
+da_die_Beförderung sie erfreute.",Wie hat Silvia Geld gespart?,Buchhaltung,Mitarbeiter entlassen,,,F,F,Wie hat Silvia Geld gespart? (Buchhaltung / Mitarbeiter entlassen),"Die Investmentfirma hatte in letzter Zeit kluge Entscheidungen in Bezug auf das Personal getroffen. Lars hatte Silvia befördert, woraufhin sie ihm als Reaktion durch Steuerschlupflöcher Millionen einsparte, da die Beförderung sie erfreute.",27,2,2,2,Buchhaltung,Mitarbeiter entlassen,Buchhaltung,Mitarbeiter entlassen,F,Critical.csv,No
+filler,1,F_16b,A,16b,S3,"Bei der_Dinnerparty fielen harte Worte.
+Rita hatte Heinrich zurechtgewiesen.
+Er machte daraufhin geschmacklose Witze über ihre_Familie,
+da_die_Zurechtweisung ihn ärgerte.",Worum ging es bei den schlechten Witzen?,Familie,Politik,,,F,F,Worum ging es bei den schlechten Witzen? (Familie / Politik),"Bei der Dinnerparty fielen harte Worte. Rita hatte Heinrich zurechtgewiesen. Er machte daraufhin geschmacklose Witze über ihre Familie, da die Zurechtweisung ihn ärgerte.",19,3,2,1,Familie,Politik,Politik,Familie,J,Critical.csv,No
+filler,1,F_18a,A,18a,S2 order,"Beim_Debattierclub-Treffen letzten Montag gab es einiges Drama.
+Adrian hatte Juliane verspottet.
+Sie stotterte daraufhin an diesem_Abend während ihrer_Rede stark,
+da_sein_Spott sie ablenkte.",Wann hat Adrian Juliane verspottet?,Vor ihrer Rede,Nach ihrer Rede,,,F,F,Wann hat Adrian Juliane verspottet? (Vor ihrer Rede / Nach ihrer Rede),"Beim Debattierclub-Treffen letzten Montag gab es einiges Drama. Adrian hatte Juliane verspottet. Sie stotterte daraufhin an diesem Abend während ihrer Rede stark, da sein Spott sie ablenkte.",22,3,3,1,Vor ihrer Rede,Nach ihrer Rede,Vor ihrer Rede,Nach ihrer Rede,F,Critical.csv,No
+filler,1,F_19c,A,19c,S2 order,"Das_Königreich Ostania erlebte in den_1750er-Jahren große Unruhen.
+Georg hatte Katharina verbannt,
+woraufhin_sie als Reaktion mit vielen Mitverschwörern gegen ihn intrigierte,
+da_die_Verbannung boshaft gewesen war.",Wann hat George Katharina verbannt?,Vor ihrer Intrige,Nach ihrer Intrige,,,F,F,Wann hat George Katharina verbannt? (Vor ihrer Intrige / Nach ihrer Intrige),"Das Königreich Ostania erlebte in den 1750er-Jahren große Unruhen. Georg hatte Katharina verbannt, woraufhin sie als Reaktion mit vielen Mitverschwörern gegen ihn intrigierte, da die Verbannung boshaft gewesen war.",24,2,2,2,Vor ihrer Intrige,Nach ihrer Intrige,Vor ihrer Intrige,Nach ihrer Intrige,F,Critical.csv,No
+filler,1,F_20b,A,20b,S2 order,"Letzte Woche war schwierig für das_Turnteam.
+Susanne hatte David beruhigt,
+woraufhin_er als Reaktion mehrere Tage lang schreckliche Albträume hatte,
+da_ihre_Beruhigung unaufrichtig wirkte.",Wann hat Susanne David beruhigt?,Vor seinen Albträumen,Nach seinen Albträumen,,,F,F,Wann hat Susanne David beruhigt? (Vor seinen Albträumen / Nach seinen Albträumen),"Letzte Woche war schwierig für das Turnteam. Susanne hatte David beruhigt, woraufhin er als Reaktion mehrere Tage lang schreckliche Albträume hatte, da ihre Beruhigung unaufrichtig wirkte.",22,2,1,2,Vor seinen Albträumen,Nach seinen Albträumen,Vor seinen Albträumen,Nach seinen Albträumen,F,Critical.csv,No
+filler,1,F_21a,A,21a,S3 order,"Der_letzte_August war ereignisreich bei der_Werbeagentur.
+Patrick hatte Meike degradiert.
+Sie sabotierte daraufhin in diesem_Monat mit erschreckender Geschwindigkeit ein_Projekt,
+da_die_Degradierung ungerechtfertigt gewesen war.",Wann hat Meike das Projekt sabotiert?,Nach ihrer Degradierung,Vor ihrer Degradierung,,,F,F,Wann hat Meike das Projekt sabotiert? (Nach ihrer Degradierung / Vor ihrer Degradierung),"Der letzte August war ereignisreich bei der Werbeagentur. Patrick hatte Meike degradiert. Sie sabotierte daraufhin in diesem Monat mit erschreckender Geschwindigkeit ein Projekt, da die Degradierung ungerechtfertigt gewesen war.",22,3,4,1,Nach ihrer Degradierung,Vor ihrer Degradierung,Vor ihrer Degradierung,Nach ihrer Degradierung,J,Critical.csv,No
+filler,1,F_26c,A,26c,S3 order,"Die_Stimmung bei der_Probe der_Tanztruppe am_Donnerstag war etwas gedrückt.
+Markus hatte Luisa getröstet,
+woraufhin_sie den_ganzen_Tag über vor sich hin murrte,
+da_sein_Trost ihr unverdient erschien.",Wann hat Luisa gemurrt?,Nach dem Trost,Vor dem Trost,,,F,F,Wann hat Luisa gemurrt? (Nach dem Trost / Vor dem Trost),"Die Stimmung bei der Probe der Tanztruppe am Donnerstag war etwas gedrückt. Markus hatte Luisa getröstet, woraufhin sie den ganzen Tag über vor sich hin murrte, da sein Trost ihr unverdient erschien.",23,2,5,2,Nach dem Trost,Vor dem Trost,Vor dem Trost,Nach dem Trost,J,Critical.csv,No
+filler,1,F_28b,A,28b,S3 order,"Der_Ingenieursabteilung ging es diesen_Monat gut.
+Jana hatte Josef gelobt.
+Er übertraf daraufhin seine_Kollegen deutlich,
+da_ihr_Lob ihm Bestätigung gab.",Wann hat Josef alle übertroffen?,Nach dem Lob,Vor dem Lob,,,F,F,Wann hat Josef alle übertroffen? (Nach dem Lob / Vor dem Lob),"Der Ingenieursabteilung ging es diesen Monat gut. Jana hatte Josef gelobt. Er übertraf daraufhin seine Kollegen deutlich, da ihr Lob ihm Bestätigung gab.",18,3,3,1,Nach dem Lob,Vor dem Lob,Vor dem Lob,Nach dem Lob,J,Critical.csv,No
+filler,1,F_29a,A,29a,S4,"Beim_Leichtathletikwettkampf am_Samstag gab es einen_herzerwärmenden_Moment.
+Hakim hatte Ronja zugejubelt.
+Sie gewann daraufhin an diesem_Nachmittag gegen alle Erwartungen ihr_Rennen,
+da_sein_Jubel sie Aufschwung gegeben hatte.",Was hat der Jubel bewirkt?,Ronja ermutigt,Ronja entmutigt,,,F,F,Was hat der Jubel bewirkt? (Ronja ermutigt / Ronja entmutigt),"Beim Leichtathletikwettkampf am Samstag gab es einen herzerwärmenden Moment. Hakim hatte Ronja zugejubelt. Sie gewann daraufhin an diesem Nachmittag gegen alle Erwartungen ihr Rennen, da sein Jubel sie Aufschwung gegeben hatte.",23,3,5,1,Ronja ermutigt,Ronja entmutigt,Ronja ermutigt,Ronja entmutigt,F,Critical.csv,No
+filler,1,F_38c,A,38c,S4,"Im_Klassenzimmer gab es viel Drama.
+Gregor hatte Maya gekniffen,
+woraufhin_sie ihm ohne jede Reue seinen_Bleistift stahl,
+da_sein_Kneifen sehr wehgetan hatte.",Was hat das Kneifen bewirkt?,Maya verärgert,Maya zum Lachen gebracht,,,F,F,Was hat das Kneifen bewirkt? (Maya verärgert / Maya zum Lachen gebracht),"Im Klassenzimmer gab es viel Drama. Gregor hatte Maya gekniffen, woraufhin sie ihm ohne jede Reue seinen Bleistift stahl, da sein Kneifen sehr wehgetan hatte.",20,2,2,2,Maya verärgert,Maya zum Lachen gebracht,Maya zum Lachen gebracht,Maya verärgert,J,Critical.csv,No
+filler,1,F_39b,A,39b,S4,"Es war kein_guter_Tag für niemanden an der_Rilke-Grundschule.
+Stella hatte Tobias geschlagen.
+Er nahm sich daraufhin ihren_Radiergummi,
+ohne sie zu fragen,
+da_ihr_Schlag unangemessen gewesen war.",Was hat der Schlag bewirkt?,Tobias verärgert,Tobias erschreckt,,,F,F,Was hat der Schlag bewirkt? (Tobias verärgert / Tobias erschreckt),"Es war kein guter Tag für niemanden an der Rilke-Grundschule. Stella hatte Tobias geschlagen. Er nahm sich daraufhin ihren Radiergummi, ohne sie zu fragen, da ihr Schlag unangemessen gewesen war.",24,3,3,1,Tobias verärgert,Tobias erschreckt,Tobias verärgert,Tobias erschreckt,F,Critical.csv,No
+filler,1,F_42a,A,42a,S5,"Es war ein_unangenehmer_Tag zu Hause.
+Hans hatte Rosa bestraft.
+Sie zeigte ihm daraufhin an diesem_Morgen ohne jede Reue den_Mittelfinger,
+da_seine_Strafe unfair gewesen war.",Wozu hat sich Rosa entschieden?,Sich zu wehren,Wegzulaufen,,,F,F,Wozu hat sich Rosa entschieden? (Sich zu wehren / Wegzulaufen),"Es war ein unangenehmer Tag zu Hause. Hans hatte Rosa bestraft. Sie zeigte ihm daraufhin an diesem Morgen ohne jede Reue den Mittelfinger, da seine Strafe unfair gewesen war.",23,3,3,1,Sich zu wehren,Wegzulaufen,Wegzulaufen,Sich zu wehren,J,Critical.csv,No
+filler,1,F_44c,A,44c,S5,"Es war eine_seltsame_Woche im_Büro.
+Mark hatte Vivian entlassen,
+woraufhin_sie als Reaktion eine_Schlange an den_Arbeitsplatz mitbrachte,
+da_sie angewidert war.",Wer war angewidert?,Vivian,Mark,,,F,F,Wer war angewidert? (Vivian / Mark),"Es war eine seltsame Woche im Büro. Mark hatte Vivian entlassen, woraufhin sie als Reaktion eine Schlange an den Arbeitsplatz mitbrachte, da sie angewidert war.",18,2,4,2,Vivian,Mark,Vivian,Mark,F,Critical.csv,Yes
+filler,1,F_47b,A,47b,S5,"In der_Küche ging es ganz schön zur_Sache.
+Ava hatte Sven eine_Ohrfeige gegeben.
+Er nahm sich daraufhin ihre_Schokolade,
+ohne es ihr zu sagen,
+da_er sie nicht mehr mochte.",Was dachte Sven über Ava?,Er hasste sie,Er mochte sie,,,F,F,Was dachte Sven über Ava? (Er hasste sie / Er mochte sie),"In der Küche ging es ganz schön zur Sache. Ava hatte Sven eine Ohrfeige gegeben. Er nahm sich daraufhin ihre Schokolade, ohne es ihr zu sagen, da er sie nicht mehr mochte.",27,3,4,1,Er hasste sie,Er mochte sie,Er mochte sie,Er hasste sie,J,Critical.csv,Yes
+filler,1,F_52dist,A,52dist,S2a,"Die_Schüler sind morgens immer tollpatschig.
+Tanja stolperte am_Dienstag über Simon und sie stieß gestern auf dem_Rasen mit Max zusammen.
+Keiner von beiden störte sich daran,
+da_es eindeutig nicht mit Absicht geschah.",Wen hat Tanja zum Stolpern gebracht?,Simon,Max,,,F,F,Wen hat Tanja zum Stolpern gebracht? (Simon / Max),"Die Schüler sind morgens immer tollpatschig. Tanja stolperte am Dienstag über Simon und sie stieß gestern auf dem Rasen mit Max zusammen. Keiner von beiden störte sich daran, da es eindeutig nicht mit Absicht geschah.",31,3,3,1,Simon,Max,Max,Simon,J,Fillers.csv,No
+filler,1,F_54dist,A,54dist,S2b,"Das_Produktionsteam hatte keine_Hoffnung,
+den_Filmtitel noch zu ändern.
+Der_Produzent hatte der_Schauspielerin schöne Worte gemacht und den_Regisseur übermäßig gelobt.
+Sie lehnten es ab,
+ihre_Pläne zu ändern,
+da_sie davon nicht beeindruckt waren.",Wen hat der Produzent gelobt?,Regisseur,Schauspieler,,,F,F,Wen hat der Produzent gelobt? (Regisseur / Schauspieler),"Das Produktionsteam hatte keine Hoffnung, den Filmtitel noch zu ändern. Der Produzent hatte der Schauspielerin schöne Worte gemacht und den Regisseur übermäßig gelobt. Sie lehnten es ab, ihre Pläne zu ändern, da sie davon nicht beeindruckt waren.",29,3,7,1,Regisseur,Schauspieler,Regisseur,Schauspieler,F,Fillers.csv,Yes
+filler,1,F_55pro,A,55pro,S3,"Es war eine_lange_Fahrt von der_Hochzeit zum_Flughafen.
+Der_Chauffeur mochte die_Braut und er ertrug den_Bräutigam.
+Beide mochten ihn nicht,
+da_sie vielleicht Snobs waren.",Wer war am wenigsten freundlich?,Bräutigam,Chauffeur,,,F,F,Wer war am wenigsten freundlich? (Bräutigam / Chauffeur),"Es war eine lange Fahrt von der Hochzeit zum Flughafen. Der Chauffeur mochte die Braut und er ertrug den Bräutigam. Beide mochten ihn nicht, da sie vielleicht Snobs waren.",21,3,6,1,Bräutigam,Chauffeur,Chauffeur,Bräutigam,J,Fillers.csv,No
+filler,1,F_67pro,A,67pro,S2a,"Kleine Kinder sind nicht immer gute Freunde.
+Tanja bewunderte Bianca und sie bewunderte auch Julia.
+Sie war untröstlich,
+da_sie herausfand,
+dass sich die_beiden hinter ihrem_Rücken über sie lustig gemacht hatten.",Wer bewunderte Bianca?,Tanja,Julia,,,F,F,Wer bewunderte Bianca? (Tanja / Julia),"Kleine Kinder sind nicht immer gute Freunde. Tanja bewunderte Bianca und sie bewunderte auch Julia. Sie war untröstlich, da sie herausfand, dass sich die beiden hinter ihrem Rücken über sie lustig gemacht hatten.",30,3,2,1,Tanja,Julia,Julia,Tanja,J,Fillers.csv,Yes
+filler,1,F_68dist,A,68dist,S2a,"Manchmal ergibt Freundschaft keinen_Sinn.
+Klara hatte Paul zurechtgewiesen und auch Richard zurechtgewiesen.
+Beide mochten sie trotzdem,
+da_sie sie lebhaft fanden.",Was tat Klara?,Leute zurechtweisen,Leute loben,,,F,F,Was tat Klara? (Leute zurechtweisen / Leute loben),"Manchmal ergibt Freundschaft keinen Sinn. Klara hatte Paul zurechtgewiesen und auch Richard zurechtgewiesen. Beide mochten sie trotzdem, da sie sie lebhaft fanden.",20,3,1,1,Leute zurechtweisen,Leute loben,Leute loben,Leute zurechtweisen,J,Fillers.csv,Yes
+filler,1,F_69pro,A,69pro,S2b,"Die_Dynamik in der_Gruppe war seit der_Aufführung etwas seltsam.
+Patricia hatte Julian gelobt und auch Simon gelobt.
+Beide ignorierten sie,
+da_alle mehr Aufmerksamkeit auf ihre_Schwester richteten.",Wer lobte Simon?,Patricia,Julian,,,F,F,Wer lobte Simon? (Patricia / Julian),"Die Dynamik in der Gruppe war seit der Aufführung etwas seltsam. Patricia hatte Julian gelobt und auch Simon gelobt. Beide ignorierten sie, da alle mehr Aufmerksamkeit auf ihre Schwester richteten.",25,3,4,1,Patricia,Julian,Julian,Patricia,J,Fillers.csv,Yes
+filler,1,F_71pro,A,71pro,S3,"Es herrschte ein_chaotisches_Durcheinander am_Straßenrand.
+Der_Fahrer beschimpfte den_Fußgänger und er beschimpfte den_Polizisten.
+Sie reagierten nicht,
+da_er offensichtlich betrunken war.",Was hat der Fahrer getrunken?,Alkohol,Kaffee,,,F,F,Was hat der Fahrer getrunken? (Alkohol / Kaffee),"Es herrschte ein chaotisches Durcheinander am Straßenrand. Der Fahrer beschimpfte den Fußgänger und er beschimpfte den Polizisten. Sie reagierten nicht, da er offensichtlich betrunken war.",18,3,5,1,Alkohol,Kaffee,Alkohol,Kaffee,F,Fillers.csv,No
+filler,1,F_72dist,A,72dist,S3,"Die_Lage in der_Bibliothek geriet außer Kontrolle.
+Die_Bibliothekarin hatte Willi zur_Ruhe ermahnt und auch Thomas zur_Ruhe ermahnt.
+Beide ignorierten sie,
+da ältere Kinder schwer zu handhaben sind.","Was geschah, nachdem die Bibliothekarin sie zur Ruhe ermahnt hatte?",Sie ignorierten sie,Sie wurden ruhig,,,F,F,"Was geschah, nachdem die Bibliothekarin sie zur Ruhe ermahnt hatte? (Sie ignorierten sie / Sie wurden ruhig)","Die Lage in der Bibliothek geriet außer Kontrolle. Die Bibliothekarin hatte Willi zur Ruhe ermahnt und auch Thomas zur Ruhe ermahnt. Beide ignorierten sie, da ältere Kinder schwer zu handhaben sind.",26,3,5,0,Sie ignorierten sie,Sie wurden ruhig,Sie ignorierten sie,Sie wurden ruhig,F,Fillers.csv,Yes
